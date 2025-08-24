@@ -1,0 +1,300 @@
+The sound of <sound> can be heard near a playground.
+The sound of <sound> can be heard near a beach.
+The sound of <sound> can be heard near a busy street.
+The sound of <sound> can be heard near a riverbank.
+The sound of <sound> can be heard near a schoolyard.
+The sound of <sound> can be heard near a market.
+The sound of <sound> can be heard near a train station.
+The sound of <sound> can be heard near a highway.
+The sound of <sound> can be heard near a forest trail.
+The sound of <sound> can be heard near a city square.
+The sound of <sound> can be heard near a shopping mall.
+The sound of <sound> can be heard near a carnival.
+The sound of <sound> can be heard near a zoo.
+The sound of <sound> can be heard near a stadium.
+The sound of <sound> can be heard near a library.
+The sound of <sound> can be heard near a lake.
+The sound of <sound> can be heard near a farm.
+The sound of <sound> can be heard near a garden.
+The sound of <sound> can be heard near a hospital.
+The sound of <sound> can be heard near a museum.
+The sound of <sound> can be heard near a theater.
+The sound of <sound> can be heard near a coffee shop.
+The sound of <sound> can be heard near a police station.
+The sound of <sound> can be heard near a fire station.
+The sound of <sound> can be heard near a bus stop.
+The sound of <sound> can be heard near a bridge.
+The sound of <sound> can be heard near a church.
+The sound of <sound> can be heard near a temple.
+The sound of <sound> can be heard near a gym.
+The sound of <sound> can be heard near a concert hall.
+The sound of <sound> can be heard near a water fountain.
+The sound of <sound> can be heard near a mountain trail.
+The sound of <sound> can be heard near a skate park.
+The sound of <sound> can be heard near a dog park.
+The sound of <sound> can be heard near a factory.
+The sound of <sound> can be heard near a windmill.
+The sound of <sound> can be heard near a fire pit.
+The sound of <sound> can be heard near a helipad.
+The sound of <sound> can be heard near a vineyard.
+The sound of <sound> can be heard near a racetrack.
+The sound of <sound> can be heard near a dam.
+The sound of <sound> can be heard near a fish market.
+The sound of <sound> can be heard near a university.
+The sound of <sound> can be heard near a racecourse.
+The sound of <sound> can be heard near a ski resort.
+The sound of <sound> can be heard near a marina.
+The sound of <sound> can be heard near a botanical garden.
+The sound of <sound> can be heard near a car dealership.
+The sound of <sound> can be heard near a power plant.
+The sound of <sound> can be heard near a wildlife reserve.
+The sound of <sound> can be heard near a harbor.
+The sound of <sound> can be heard near a laundromat.
+The sound of <sound> can be heard near a golf course.
+The sound of <sound> can be heard near a hedge maze.
+The sound of <sound> can be heard near a clock tower.
+The sound of <sound> can be heard near a taxi stand.
+The sound of <sound> can be heard near a petrol station.
+The sound of <sound> can be heard near a newsstand.
+The sound of <sound> can be heard near a tram stop.
+The sound of <sound> can be heard near a pet store.
+The sound of <sound> can be heard near a repair shop.
+The sound of <sound> can be heard near a bridge.
+The sound of <sound> can be heard near a tunnel entrance.
+The sound of <sound> can be heard near a water treatment plant.
+The sound of <sound> can be heard near a sewage plant.
+The sound of <sound> can be heard near a subway station.
+The sound of <sound> can be heard near a sports arena.
+The sound of <sound> can be heard near a high-rise building.
+The sound of <sound> can be heard near a cliff edge.
+The sound of <sound> can be heard near a lighthouse.
+The sound of <sound> can be heard near a theme park.
+The sound of <sound> can be heard near a race track.
+The sound of <sound> can be heard near a water slide.
+The sound of <sound> can be heard near a skating rink.
+The sound of <sound> can be heard near a fairground.
+The sound of <sound> can be heard near a sculpture park.
+The sound of <sound> can be heard near a wind turbine.
+The sound of <sound> can be heard near a quarry.
+The sound of <sound> can be heard near a landfill.
+The sound of <sound> can be heard near a greenfield.
+The sound of <sound> can be heard near a shopping arcade.
+The sound of <sound> can be heard near a rooftop garden.
+The sound of <sound> can be heard near a waterfall.
+The sound of <sound> can be heard near a volcano.
+The sound of <sound> can be heard near a meteor crater.
+The sound of <sound> can be heard near a hot spring.
+The sound of <sound> can be heard near a ski lodge.
+The sound of <sound> can be heard near a dock.
+The sound of <sound> can be heard near a bakery.
+The sound of <sound> can be heard near a butcher shop.
+The sound of <sound> can be heard near a fruit orchard.
+The sound of <sound> can be heard near a vineyard.
+The sound of <sound> can be heard near a brewery.
+The sound of <sound> can be heard near a distillery.
+The sound of <sound> can be heard near a fishing pier.
+The sound of <sound> can be heard near a coral reef.
+The sound of <sound> can be heard near a swimming pool.
+The sound of <sound> can be heard near a suburban neighborhood.
+The sound of <sound> can be heard near a construction site.
+The sound of <sound> can be heard near a public park.
+A soft sound of a <sound>.
+A thunderous sound of a <sound>.
+A gentle sound of a <sound>.
+A deafening sound of a <sound>.
+A faint sound of a <sound>.
+An intense sound of a <sound>.
+A powerful sound of a <sound>.
+A moderate sound of a <sound>.
+A booming sound of a <sound>.
+A quiet sound of a <sound>.
+A subtle sound of a <sound>.
+A sharp sound of a <sound>.
+A roaring sound of a <sound>.
+A delicate sound of a <sound>.
+A strong sound of a <sound>.
+A mellow sound of a <sound>.
+An overwhelming sound of a <sound>.
+A mild sound of a <sound>.
+A blaring sound of a <sound>.
+A hushed sound of a <sound>.
+A piercing sound of a <sound>.
+A whispering sound of a <sound>.
+A resounding sound of a <sound>.
+A muted sound of a <sound>.
+An explosive sound of a <sound>.
+A dim sound of a <sound>.
+An echoing sound of a <sound>.
+A forceful sound of a <sound>.
+A minimal sound of a <sound>.
+A pounding sound of a <sound>.
+A restrained sound of a <sound>.
+A violent sound of a <sound>.
+A gentle sound of a <sound>.
+A robust sound of a <sound>.
+A restrained sound of a <sound>.
+A subdued sound of a <sound>.
+A reverberating sound of a <sound>.
+An amplified sound of a <sound>.
+A slight sound of a <sound>.
+An energetic sound of a <sound>.
+A calm sound of a <sound>.
+A vibrant sound of a <sound>.
+A delicate sound of a <sound>.
+A vigorous sound of a <sound>.
+A serene sound of a <sound>.
+A rapid sound of a <sound>.
+An urgent sound of a <sound>.
+A sudden sound of a <sound>.
+A sporadic sound of a <sound>.
+A pulsating sound of a <sound>.
+A crashing sound of a <sound>.
+A steady sound of a <sound>.
+An abrupt sound of a <sound>.
+A booming sound of a <sound>.
+A violent sound of a <sound>.
+A persistent sound of a <sound>.
+An unwavering sound of a <sound>.
+A colossal sound of a <sound>.
+A slight sound of a <sound>.
+A firm sound of a <sound>.
+A continuous sound of a <sound>.
+A tremendous sound of a <sound>.
+A low-key sound of a <sound>.
+A drastic sound of a <sound>.
+An all-encompassing sound of a <sound>.
+A gentle sound of a <sound>.
+A gentle sound of a <sound>.
+A firm sound of a <sound>.
+A booming sound of a <sound>.
+A low-volume sound of a <sound>.
+An extreme sound of a <sound>.
+A high-volume sound of a <sound>.
+An even sound of a <sound>.
+A minor sound of a <sound>.
+A strong sound of a <sound>.
+A considerable sound of a <sound>.
+An enormous sound of a <sound>.
+An irregular sound of a <sound>.
+A gentle sound of a <sound>.
+A potent sound of a <sound>.
+An unwavering sound of a <sound>.
+An exaggerated sound of a <sound>.
+A high-frequency sound of a <sound>.
+A minimal sound of a <sound>.
+An immense sound of a <sound>.
+A blaring sound of a <sound>.
+An intense sound of a <sound>.
+A mild sound of a <sound>.
+A delicate sound of a <sound>.
+A resonant sound of a <sound>.
+A stentorian sound of a <sound>.
+A major sound of a <sound>.
+An extensive sound of a <sound>.
+A low-frequency sound of a <sound>.
+A massive sound of a <sound>.
+A subtle sound of a <sound>.
+A strong sound of a <sound>.
+An enormous sound of a <sound>.
+A feeble sound of a <sound>.
+An undulating sound of a <sound>.
+A sound of a <sound> coming from a radio.
+A sound of a <sound> coming from a smartphone.
+A sound of a <sound> coming from a microwave.
+A sound of a <sound> coming from a washing machine.
+A sound of a <sound> coming from a vacuum cleaner.
+A sound of a <sound> coming from a car engine.
+A sound of a <sound> coming from a bicycle bell.
+A sound of a <sound> coming from a refrigerator.
+A sound of a <sound> coming from a gaming console.
+A sound of a <sound> coming from a typewriter.
+A sound of a <sound> coming from a fan.
+A sound of a <sound> coming from a blender.
+A sound of a <sound> coming from a lawnmower.
+A sound of a <sound> coming from a clock.
+A sound of a <sound> coming from a train.
+A sound of a <sound> coming from a piano.
+A sound of a <sound> coming from a guitar.
+A sound of a <sound> coming from a flute.
+A sound of a <sound> coming from a birdcage.
+A sound of a <sound> coming from a aquarium.
+A sound of a <sound> coming from a forest.
+A sound of a <sound> coming from a construction site.
+A sound of a <sound> coming from a waterfall.
+A sound of a <sound> coming from a coffee machine.
+A sound of a <sound> coming from a heater.
+A sound of a <sound> coming from a air conditioner.
+A sound of a <sound> coming from a printer.
+A sound of a <sound> coming from a dishwasher.
+A sound of a <sound> coming from a sewing machine.
+A sound of a <sound> coming from a wind chime.
+A sound of a <sound> coming from a helicopter.
+A sound of a <sound> coming from a jet engine.
+A sound of a <sound> coming from a sawmill.
+A sound of a <sound> coming from a factory.
+A sound of a <sound> coming from a bus.
+A sound of a <sound> coming from a boat.
+A sound of a <sound> coming from a drill.
+A sound of a <sound> coming from a barber shop.
+A sound of a <sound> coming from a gym.
+A sound of a <sound> coming from a crowd.
+A sound of a <sound> coming from a theater.
+A sound of a <sound> coming from a nightclub.
+A sound of a <sound> coming from a subway.
+A sound of a <sound> coming from a power plant.
+A sound of a <sound> coming from a vending machine.
+A sound of a <sound> coming from a amusement park.
+A sound of a <sound> coming from a fire truck.
+A sound of a <sound> coming from a police car.
+A sound of a <sound> coming from a ambulance.
+A sound of a <sound> coming from a zoo.
+A sound of a <sound> coming from a computer.
+A sound of a <sound> coming from a wind turbine.
+A sound of a <sound> coming from a fireplace.
+A sound of a <sound> coming from a waterfall.
+A sound of a <sound> coming from a river.
+A sound of a <sound> coming from a city street.
+A sound of a <sound> coming from a marketplace.
+A sound of a <sound> coming from a cathedral.
+A sound of a <sound> coming from a bell tower.
+A sound of a <sound> coming from a farm.
+A sound of a <sound> coming from a playground.
+A sound of a <sound> coming from a music box.
+A sound of a <sound> coming from a toy.
+A sound of a <sound> coming from a treadmill.
+A sound of a <sound> coming from a train station.
+A sound of a <sound> coming from a skateboard.
+A sound of a <sound> coming from a amusement park ride.
+A sound of a <sound> coming from a cafeteria.
+A sound of a <sound> coming from a swimming pool.
+A sound of a <sound> coming from a beach.
+A sound of a <sound> coming from a church.
+A sound of a <sound> coming from a concert hall.
+A sound of a <sound> coming from a subway station.
+A sound of a <sound> coming from a park.
+A sound of a <sound> coming from a tunnel.
+A sound of a <sound> coming from a parking lot.
+A sound of a <sound> coming from a kitchen.
+A sound of a <sound> coming from a hospital room.
+A sound of a <sound> coming from a sports field.
+A sound of a <sound> coming from a zoo exhibit.
+A sound of a <sound> coming from a bowling alley.
+A sound of a <sound> coming from a roller coaster.
+A sound of a <sound> coming from a escalator.
+A sound of a <sound> coming from a elevator.
+A sound of a <sound> coming from a hallway.
+A sound of a <sound> coming from a wind chime.
+A sound of a <sound> coming from a fountain.
+A sound of a <sound> coming from a dock.
+A sound of a <sound> coming from a marina.
+A sound of a <sound> coming from a car wash.
+A sound of a <sound> coming from a fire pit.
+A sound of a <sound> coming from a greenhouse.
+A sound of a <sound> coming from a festival.
+A sound of a <sound> coming from a parade.
+A sound of a <sound> coming from a workshop.
+A sound of a <sound> coming from a garage.
+A sound of a <sound> coming from a garden.
+A sound of a <sound> coming from a movie theater.
+A sound of a <sound> coming from a lecture hall.
+A sound of a <sound> coming from a shopping mall.
